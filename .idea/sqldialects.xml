@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/executeanalysis/execute_process_analysis.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/executeanalysis/slow_sql_analysis.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/explain/explain_test.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/index/index_types.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/locks/mock_user.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/locks/xiaoling_lock_practice.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/storage/storage_analysis.sql" dialect="MySQL" />
+  </component>
+</project>
